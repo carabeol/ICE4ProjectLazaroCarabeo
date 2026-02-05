@@ -10,4 +10,9 @@ package com.mycompany.projectlazarocarabeo;
  */
 public class TestClass {
     
+       public double multip(int a , int b ){
+    return a*b;
+     }
+    
+    
 }
